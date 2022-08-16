@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "55443483279",
+    "project_id": "wrkrz-321709",
+    "storage_bucket": "wrkrz-321709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55443483279:android:33547e3a6e1a4ad8a5defa",
+        "android_client_info": {
+          "package_name": "com.crimsontide.beepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55443483279-3t91irbnq4sm2oun2nvglr5jnes4e1i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv3ERmf820vsI1jMA798esv62bKH9tMAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55443483279-3t91irbnq4sm2oun2nvglr5jnes4e1i2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55443483279-403ek95sdiqh07olhaot1mmrha4rl05m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.crimsontide.wrkrz.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55443483279:android:d87c2a461b0adf4ba5defa",
+        "android_client_info": {
+          "package_name": "com.crimsontide.hiver.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55443483279-3t91irbnq4sm2oun2nvglr5jnes4e1i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv3ERmf820vsI1jMA798esv62bKH9tMAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55443483279-3t91irbnq4sm2oun2nvglr5jnes4e1i2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55443483279-403ek95sdiqh07olhaot1mmrha4rl05m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.crimsontide.wrkrz.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55443483279:android:0e0849c13cefd44fa5defa",
+        "android_client_info": {
+          "package_name": "com.crimsontide.hiver.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55443483279-3t91irbnq4sm2oun2nvglr5jnes4e1i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv3ERmf820vsI1jMA798esv62bKH9tMAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55443483279-3t91irbnq4sm2oun2nvglr5jnes4e1i2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55443483279-403ek95sdiqh07olhaot1mmrha4rl05m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.crimsontide.wrkrz.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

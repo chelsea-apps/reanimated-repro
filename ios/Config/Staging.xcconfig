@@ -1,0 +1,6 @@
+#include "Pods/Target Support Files/Pods-BeePro/Pods-BeePro.debug (staging).xcconfig"
+#include "Pods/Target Support Files/Pods-BeePro/Pods-BeePro.release (staging).xcconfig"
+
+// App Settings
+APP_NAME = BeePro (Beta)
+APP_BUNDLE_ID = com.crimsontide.wrkrz.staging
