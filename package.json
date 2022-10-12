@@ -21,7 +21,7 @@
         "react-native-dotenv": "^3.3.1",
         "react-native-gesture-handler": "^2.5.0",
         "react-native-reanimated": "^2.9.1",
-        "react-native-unimodules": "^0.14.5"
+        "react-native-unimodules": "^0.15.0"
     },
     "devDependencies": {
         "@babel/core": "^7.12.9",
